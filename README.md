@@ -83,10 +83,12 @@ Figure 6: Simple simulation Circuit
 > - Step 4: Change the resistor's resistance to see if it affects the LED's intensity. 
 
 ```
-**2.2.	Learning Reflection**
+**3.1.1.	Learning Reflection**
 
 Write a brief note about the results of simulating a simple electric circuit by connecting components directly..
-
+We observed that light sparkeled brightly, when the resistor is kept at 1 kilo ohm red light sparkled less, and when the rsistor is kept at 6 kilo ohm led
+light will be damaged.
+Hence, we observed that when the resistance of resistor decreases the current will increased. Resistance and current are inversely proportional to each other.
 
 ```
 
