@@ -104,7 +104,9 @@ Figure 7: Using a breadboard to connect components.
 **3.2.	Learning Reflection**
 
 Write a brief note on the results observed while changing the resistor’s resistance in the simulation. What about direction of LED connected?
-
+We observed that light sparkled brightly when the resistance is 1 kilo ohm. As we increase the resistance the led light gets dimmer.
+LED light get damaged when the resistance is zero.
+So, we can say that current flowing through the circuit is inversely proportional to the resistance of the given circuit.
 
 ```
 ### 4.	Simulation 4: Simulating Voltage Divider Circuit
