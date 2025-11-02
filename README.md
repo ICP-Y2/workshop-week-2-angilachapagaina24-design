@@ -47,7 +47,7 @@ Figure 3: Parallel Battery Combination Circuit Diagram
 
 <img width="263" height="368" alt="image" src="https://github.com/user-attachments/assets/5ea16308-9fea-401d-8733-5bcf7c3fa577" />
 
-Figure 4: Parallel Battery Combination Simulation Circui
+Figure 4: Parallel Battery Combination Simulation Circuit
 
 > - Step 1: Select and drop four batteries (1.5V), a multimeter and a breadboard.
 > - Step 2: Connect the positive and negative terminals of the batteries as shown in the above figure. (Positive terminals of the batteries in one point and the negative terminals in another point.)
@@ -58,7 +58,8 @@ Figure 4: Parallel Battery Combination Simulation Circui
 **2.2.	Learning Reflection**
 
 Write a brief note about the results of the Parallel Battery Combination simulation.
-
+We observed that when four 1.5 V of battery is connected in parallel connection, the multimeter showed overall voltage is 1.5 V.
+Hence, when the batteries are connected in parallel connection, the overall voltage will be the same of the voltage of the batteries. 
 
 ```
 ### 3.	Simulation 3: Simulating a simple electric circuit
